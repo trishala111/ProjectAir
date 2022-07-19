@@ -1,0 +1,13 @@
+﻿AOI,Country,Region,Method,EO Sensor,Measurement Value,Indicator Name,Data Provider,Time,Date,latitude,longitude
+"35.550000,139.900000 ",JP,Tokyo Bay,Weekly mean TSM concentration anomaly as proxy for water quality,GCOM-C/SGLI,-38.92,Total Suspended Matter concentration anomaly ,JAXA/EORC,5/29/2021 0:00,2021-05-29T00:00:00,35.55,139.9
+"34.550000,135.150000",JP,Osaka Bay,Weekly mean TSM concentration anomaly as proxy for water quality,GCOM-C/SGLI,35.22,Total Suspended Matter concentration anomaly ,JAXA/EORC,5/29/2021 0:00,2021-05-29T00:00:00,34.55,135.15
+"34.750000,136.700001",JP,Ise Bay,Weekly mean TSM concentration anomaly as proxy for water quality,GCOM-C/SGLI,109.06,Total Suspended Matter concentration anomaly ,JAXA/EORC,5/22/2021 0:00,2021-05-22T00:00:00,34.75,136.700001
+"41.1017, -72.934",US,New York,Weekly mean SPM concentration anomaly as proxy for water quality,MODIS Aqua,-7.542258,Total Suspended Matter concentration anomaly,NASA OBPG,6/12/2021 18:20,2021-06-12T18:20:00,41.1017,-72.934
+"45.314247, 12.508055",IT,North Adriatic Sea,Weekly mean SPM concentration anomaly as proxy for water quality,Aqua MODIS,26.138255,Total Suspended Matter concentration anomaly,NASA OBPG,6/12/2021 11:30,2021-06-12T11:30:00,45.314247,12.508055
+"39.9,116.38",CN,Beijing,Not available,GOSAT,5.82,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,39.9,",116.38"
+"23.8,90.3",BD,Dhaka,Not available,GOSAT,0.36,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,23.8,90.3
+"28.6448,77.216721",IN,New Delhi,Not available,GOSAT,3.46,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,28.6448,77.216721
+"19.076,72.8777",IN,Mumbai,Not available,GOSAT,1.54,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,19.076,72.8777
+"40.71268,-74.005812",US,New York,Not available,GOSAT,4.44,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-03-01T00:00:00,40.71268,",-74.005812"
+"31.3,121.4",CN,Shanghai,Not available,GOSAT,4.54,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,31.3,121.4
+"35.61,139.78",JP,Tokyo,Not available,GOSAT,2.96,Partial Column (GOSAT FTS L1B V220.220),JAXA,,2020-04-01T00:00:00,35.61,139.78
